@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<a href="https://i.imgur.com/NpMdiJD.mp4" target="_blank">▶️ Watch Video Walkthrough</a>
+<a href="https://i.imgur.com/NpMdiJD.gif" target="_blank">▶️ Watch GIF </a>
 
 
 <!-- Replace this with whatever GIF tool you used! -->
